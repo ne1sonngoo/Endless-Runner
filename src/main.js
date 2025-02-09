@@ -1,9 +1,9 @@
 // Phaser Endless Runner Game
 // Name: Nelson Ngo
 // Game Title: Space Runner
-// Hours Spent:  Hours
-// Creative Tilt: Dynamic obstacle generation with escalating difficulty
-
+// Hours Spent: 20 Hours
+// Creative Tilt: used pixel art of shapes and colors to give it an old school look. The sfx was done by my friend and 
+// the game gets harder over time making it not one dimentional.
 
 
 let config = {
